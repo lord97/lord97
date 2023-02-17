@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lord97
 - 👀 I’m interested in computer science, programming, AI,IOT and more
-- 🌱 I’m currently learning laravel framework
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on web developpement project, IoT project and more
 - 📫 You can join me by my email : sanoumohamed97@gmail.com
 
