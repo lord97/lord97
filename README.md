@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lord97" alt="lord97" /></a> </p>
 
-- 🔭 I’m currently studying **Data science**
+- 🔭 **Software Engineering & Data science**
 
 - 📫 How to reach me **sanoumohamed97@gmail.com**
 
