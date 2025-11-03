@@ -1,23 +1,72 @@
-<h1 align="center">Hi 👋, I'm SANOU Mohamed Bachir</h1>
-<h3 align="center">A passionate fullstack developer || Artificial Intelligence</h3>
+<h1 align="center">Hello, I'm Mohamed Bachir SANOU 👋</h1>
+<h3 align="center">MSc Software Engineering @ USTC | AI/ML & Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lord97&label=Profile%20views&color=0e75b6&style=flat" alt="lord97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lord97" alt="lord97" /></a> </p>
-
-- 🔭 **Software Engineering & Data science**
-
-- 📫 How to reach me **sanoumohamed97@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-bachir-sanou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-bachir-sanou" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-bachir-sanou/">LinkedIn</a> •
+  <a href="mailto:sanoumohamed@mail.ustc.edu.cn">Email</a> •
+  <a href="[coming]">Portfolio</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord97&show_icons=true&locale=en&layout=compact" alt="lord97" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lord97&show_icons=true&locale=en" alt="lord97" /></p>
+I'm a Master's student in Software Engineering at the University of Science and Technology of China (USTC), focusing on pushing the boundaries of **Artificial Intelligence** and building scalable software systems. My research and projects span **Natural Language Processing (NLP), Computer Vision, and LLM Fine-tuning**.
 
+- 🔭 I’m currently working on **LLM,NLP** and advanced **RAG systems**.
+- 🌱 I’m deepening my knowledge in **Optimization Algorithms** and **Distributed Systems**.
+- 👯 I’m looking to collaborate on open-source projects in **LLM,AI Agents,Computer vision** and **MLOps**.
+- 💡 Passionate about applying AI to solve real-world problems, like my work on **maize disease detection**.
+- 🎯 **Goal:** Seeking AI/ML/Software Enginnering Internship opportunities at innovative tech companies for 2025.
+
+---
+
+### 🚀 Highlighted Projects
+
+These projects demonstrate my end-to-end capability from research to deployment.
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Maize Disease Detection (WFP)]** | Achieved 93% accuracy with a YOLOv9 model for early detection of maize diseases. Deployed via a FastAPI web app. | `Python` `PyTorch` `YOLOv9` `FastAPI` `OpenCV` |
+| **[Cybersecurity Spam LLM](https://github.com/lord97/cybersecurity-llm)** | Fine-tuned a DeepSeek-Llama-8B model using LoRA on a SpamAssassin dataset for enhanced spam detection. | `Python` `PyTorch` `LoRA` `Unsloth` `W&B` |
+| **[E-commerce LLM Chatbot](https://github.com/lord97/ecommerce-chatbot)** | Built a context-aware recommendation chatbot using the Gemini API and Django for personalized shopping. | `Python` `Django` `Gemini API` `LangChain` `Tailwind CSS` |
+| **[AJPD-BF Management System](https://www.ajpd-bf.com)** | Led the development of a workflow management platform, successfully deployed for 500+ NGO members. | `React.js` `Laravel` `REST API` `Docker` |
+
+
+
+---
+
+### 🛠️ Tech Stack
+
+**AI/ML & Data Science**
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `LangChain` `Hugging Face` `OpenCV` `Pandas` `NumPy`
+
+**Backend Development**
+`Laravel` `Django` `FastAPI` `Node.js` `Java` `Spring Boot` `PHP` `REST APIs` `GraphQL`
+
+**Frontend Development**
+`React.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS`
+
+**Infrastructure & Tools**
+`Docker` `Git` `FPGA` `Google Cloud Platform` `Weights & Biases` `MySQL` `PostgreSQL`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lord97&show_icons=true&theme=default&hide_title=true" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord97&layout=compact&theme=default&hide=html,css,php,blade" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** sanoumohamed97@gmail.com / sanoumohamed@mail.ustc.edu.cn
+- **LinkedIn:** [mohamed-bachir-sanou](https://www.linkedin.com/in/mohamed-bachir-sanou)
+- **GitHub:** [lord97](https://github.com/lord97)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lord97&color=blue&style=flat" alt="Profile Views" />
+</p>
