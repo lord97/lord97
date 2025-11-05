@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-bachir-sanou/">LinkedIn</a> •
   <a href="mailto:sanoumohamed@mail.ustc.edu.cn">Email</a> •
-  <a href="[coming]">Portfolio</a>
+  <a href="https://lord97.github.io/my-portfolio/">Portfolio</a>
 </p>
 
 ---
