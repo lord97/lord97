@@ -15,9 +15,10 @@ I'm a Master's student in Software Engineering at the University of Science and 
 
 - 🔭 I’m currently working on **LLM,NLP** and advanced **RAG systems** and **Software Development**.
 - 🌱 I’m deepening my knowledge in **Optimization Algorithms** and **Distributed Systems**.
+- 🔭 Currently Challenging my self with a daily challenge on Leetcode
 - 👯 I’m looking to collaborate on open-source projects in **LLM,AI Agents,Computer vision** and **MLOps**.
 - 💡 Passionate about applying AI to solve real-world problems, like my work on **maize disease detection**.
-- 🎯 **Goal:** Seeking AI/ML/Software Enginnering Internship opportunities at innovative tech companies for 2025.
+- 🎯 **Goal:** Seeking AI/ML/Software Enginnering Internship opportunities at innovative tech companies.
 
 ---
 
