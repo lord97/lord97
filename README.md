@@ -13,7 +13,7 @@
 
 I'm a Master's student in Software Engineering at the University of Science and Technology of China (USTC), focusing on pushing the boundaries of **Artificial Intelligence** and building scalable software systems. My research and projects span **Natural Language Processing (NLP), Computer Vision, and LLM Fine-tuning**.
 
-- 🔭 I’m currently working on **LLM,NLP** and advanced **RAG systems**.
+- 🔭 I’m currently working on **LLM,NLP** and advanced **RAG systems** and **Software Development**.
 - 🌱 I’m deepening my knowledge in **Optimization Algorithms** and **Distributed Systems**.
 - 👯 I’m looking to collaborate on open-source projects in **LLM,AI Agents,Computer vision** and **MLOps**.
 - 💡 Passionate about applying AI to solve real-world problems, like my work on **maize disease detection**.
@@ -27,7 +27,7 @@ These projects demonstrate my end-to-end capability from research to deployment.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Maize Disease Detection (WFP)]** | Achieved 93% accuracy with a YOLOv9 model for early detection of maize diseases. Deployed via a FastAPI web app. | `Python` `PyTorch` `YOLOv9` `FastAPI` `OpenCV` |
+| **Maize Disease Detection (WFP) (private repo)** | Achieved 93% accuracy with a YOLOv9 model for early detection of maize diseases. Deployed via a FastAPI web app. | `Python` `PyTorch` `YOLOv9` `FastAPI` `OpenCV` |
 | **[Cybersecurity Spam LLM](https://github.com/lord97/LLM_SPAM_DETECTION_ASSASSIN))** | Fine-tuned a DeepSeek-Llama-8B model using LoRA on a SpamAssassin dataset for enhanced spam detection. | `Python` `PyTorch` `LoRA` `Unsloth` `W&B` |
 | **[E-commerce LLM Chatbot](https://github.com/lord97/computer_advisor)** | Built a context-aware recommendation chatbot using the Gemini API and Django for personalized shopping. | `Python` `Django` `Gemini API` `LangChain` `Tailwind CSS` |
 | **[AJPD-BF Management System](https://www.ajpd-bf.com)** | Led the development of a workflow management platform, successfully deployed for 500+ NGO members. | `React.js` `Laravel` `REST API` `Docker` |
@@ -36,7 +36,7 @@ These projects demonstrate my end-to-end capability from research to deployment.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **AI/ML & Data Science**
 `Python` `PyTorch` `TensorFlow` `Scikit-learn` `LangChain` `Hugging Face` `OpenCV` `Pandas` `NumPy`
