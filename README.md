@@ -28,6 +28,7 @@ These projects demonstrate my end-to-end capability from research to deployment.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **[Research RAG Assistant](https://github.com/lord97/research-rag-assistant)** | An AI-powered research assistant that helps you interact with academic papers using Retrieval Augmented Generation (RAG). | `Python` `LangChain` `Gemini API` `Chroma` `Streamlit` |
 | **Maize Disease Detection (WFP) (private repo)** | Achieved 93% accuracy with a YOLOv9 model for early detection of maize diseases. Deployed via a FastAPI web app. | `Python` `PyTorch` `YOLOv9` `FastAPI` `OpenCV` |
 | **[Cybersecurity Spam LLM](https://github.com/lord97/LLM_SPAM_DETECTION_ASSASSIN))** | Fine-tuned a DeepSeek-Llama-8B model using LoRA on a SpamAssassin dataset for enhanced spam detection. | `Python` `PyTorch` `LoRA` `Unsloth` `W&B` |
 | **[E-commerce LLM Chatbot](https://github.com/lord97/computer_advisor)** | Built a context-aware recommendation chatbot using the Gemini API and Django for personalized shopping. | `Python` `Django` `Gemini API` `LangChain` `Tailwind CSS` |
