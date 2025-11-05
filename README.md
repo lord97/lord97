@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a Master's student in Software Engineering at the University of Science and Technology of China (USTC), focusing on pushing the boundaries of **Artificial Intelligence** and building scalable software systems. My research and projects span **Natural Language Processing (NLP), Computer Vision, and LLM Fine-tuning**.
 
@@ -21,15 +21,15 @@ I'm a Master's student in Software Engineering at the University of Science and 
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 These projects demonstrate my end-to-end capability from research to deployment.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Maize Disease Detection (WFP)]** | Achieved 93% accuracy with a YOLOv9 model for early detection of maize diseases. Deployed via a FastAPI web app. | `Python` `PyTorch` `YOLOv9` `FastAPI` `OpenCV` |
-| **[Cybersecurity Spam LLM](https://github.com/lord97/cybersecurity-llm)** | Fine-tuned a DeepSeek-Llama-8B model using LoRA on a SpamAssassin dataset for enhanced spam detection. | `Python` `PyTorch` `LoRA` `Unsloth` `W&B` |
-| **[E-commerce LLM Chatbot](https://github.com/lord97/ecommerce-chatbot)** | Built a context-aware recommendation chatbot using the Gemini API and Django for personalized shopping. | `Python` `Django` `Gemini API` `LangChain` `Tailwind CSS` |
+| **[Cybersecurity Spam LLM]([https://github.com/lord97/cybersecurity-llm](https://github.com/lord97/LLM_SPAM_DETECTION_ASSASSIN))** | Fine-tuned a DeepSeek-Llama-8B model using LoRA on a SpamAssassin dataset for enhanced spam detection. | `Python` `PyTorch` `LoRA` `Unsloth` `W&B` |
+| **[E-commerce LLM Chatbot]([https://github.com/lord97/ecommerce-chatbot](https://github.com/lord97/computer_advisor))** | Built a context-aware recommendation chatbot using the Gemini API and Django for personalized shopping. | `Python` `Django` `Gemini API` `LangChain` `Tailwind CSS` |
 | **[AJPD-BF Management System](https://www.ajpd-bf.com)** | Led the development of a workflow management platform, successfully deployed for 500+ NGO members. | `React.js` `Laravel` `REST API` `Docker` |
 
 
